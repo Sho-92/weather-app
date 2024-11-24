@@ -1,2 +1,2 @@
-# weather-app
-#Weather Wise
+# Weather Wise
+- weather-app
