@@ -1,4 +1,4 @@
-<img src="/images/search-pg.png" alt="Weather App Screenshot" width="600"/>
+<img src="/image/top-pg.png" alt="Weather App Screenshot" width="500"/><img src="/image/search-pg.png" alt="Weather App Screenshot" width="500"/>
 
 
 # Weather Wise
@@ -71,3 +71,5 @@ OpenWeatherMap APIでfetchを使用して非同期通信を実装。Current weat
 
 - **通信エラーや不正な入力への対応**  
     - APIリクエストが失敗した場合や、都市名が無効な場合のエラーメッセージ表示
+
+ 
