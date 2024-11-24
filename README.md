@@ -1,3 +1,6 @@
+<p align="center"><img src="./images/" width="400" alt="Weather App"></p>
+
+
 # Weather Wise
 
 This is a weather forecast app created for learning JavaScript.  
