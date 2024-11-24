@@ -121,8 +121,8 @@ h1 {
   .forecast-container {
     display: flex;
     overflow-x: auto;
-    position: absolute;
-    bottom: 3rem;
+    //position: absolute;
+    //bottom: 3rem;
     gap: 1rem;
     width: 70%;
   }
