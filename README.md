@@ -1,4 +1,4 @@
-<img src="./images/top-pg.png" alt="Weather App Screenshot" width="600"/>
+<img src="/images/search-pg.png" alt="Weather App Screenshot" width="600"/>
 
 
 # Weather Wise
