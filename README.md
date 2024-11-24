@@ -42,7 +42,7 @@ While writing the code, I visualized how the implementation would work. During t
 
 これはJavaScriptの学習用に作成した天気予報アプリです。  
 Backgroundを取得した天候によって変更して、それに伴いデフォルトのアイコンではなく、icons8.comから取得したものをカスタムアイコンとして設定しました。  
-OpenWeatherMap APIでfetchを使用して非同期通信を実装。Current weather dataとは別に、5 day weather forecastも同時に取得して表示させた。コードを書く際にどのように実装されるかをイメージしながら行いました。非同期処理ではAPIを呼び込む際にエラーが起きたが、その解決策を調べながらも実装しることができた。この際により知識を深めることができたので、jsの動きや非同期処理、APIとカスタムアイコンの同期や背景の変更など、実践的に学べるいいプロジェクトだった。
+OpenWeatherMap APIでfetchを使用して非同期通信を実装。Current weather dataとは別に、5 day weather forecastも同時に取得して表示させました。コードを書く際にどのように実装されるかをイメージしながら行いました。また、非同期処理ではAPIを呼び込む際にエラーが起きたが、その解決策を調べながらも実装することができました。この際により知識を深めることができたので、jsの動きや非同期処理、APIとカスタムアイコンの同期や背景の変更など、実践的に学べるいいプロジェクトでした。
 
 ---
 
