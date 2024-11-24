@@ -118,11 +118,16 @@ h1 {
     font-size: 14px; 
   }
 
+  .weather-info.show {
+    gap: 0.3rem;
+    font-weight: bold;
+    font-size: 15px;
+  }
+  
   .forecast-container {
     display: flex;
     overflow-x: auto;
-    //position: absolute;
-    //bottom: 3rem;
+    margin-bottom: 1rem;
     gap: 1rem;
     width: 70%;
   }
