@@ -96,6 +96,10 @@ h1 {
 
   body {
     padding: 10px; 
+    min-height: 100vh;
+    height: auto;
+    overflow: hidden;
+
   }
 
   h1 {
